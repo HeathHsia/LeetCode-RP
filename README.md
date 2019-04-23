@@ -1,2 +1,2 @@
-# LeetCode-RP
-LeetCode Respository
+# LeetCode
+
